@@ -39,9 +39,6 @@ Roadmap:
 	   using database-driven dynamic web pages
 	5. analyze data stored in the database with SAS 
 
-
-Results:
-
 Main Implementation :
 
 	1. assume oracle username = python, password = welcome
