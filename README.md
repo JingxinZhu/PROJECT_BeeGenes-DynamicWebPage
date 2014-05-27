@@ -40,11 +40,13 @@ Roadmap:
 	5. analyze data stored in the database with SAS 
 
 Programming Goal: 
+
     1. Dynamic webpage powered by python
     2. Simple webpage design 
     3. Oracle-integrated webpage
 
 Version info:
+
 	1. Oracle database 11g express
 	2. Python 2.7
 	3. cx_Oracle module required
