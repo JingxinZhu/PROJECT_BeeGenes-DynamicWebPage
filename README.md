@@ -39,6 +39,16 @@ Roadmap:
 	   using database-driven dynamic web pages
 	5. analyze data stored in the database with SAS 
 
+Programming Goal: 
+    1. Dynamic webpage powered by python
+    2. Simple webpage design 
+    3. Oracle-integrated webpage
+
+Version info:
+	1. Oracle database 11g express
+	2. Python 2.7
+	3. cx_Oracle module required
+
 Main Implementation :
 
 	1. assume oracle username = python, password = welcome
@@ -56,12 +66,3 @@ Main Implementation :
 	5. after clicking ‘click to see result’ button in the new webpage,
 	   another webpage will jump out to show analysis result
 
-Programming Goal: 
-    1. Dynamic webpage powered by python
-    2. Simple webpage design 
-    3. Oracle-integrated webpage
-
-Version info:
-	1. Oracle database 11g express
-	2. Python 2.7
-	3. cx_Oracle module required
